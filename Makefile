@@ -3,7 +3,7 @@
 # Bootstrapping variables
 ##########################
 
-AWS_BRANCH ?= "dev"
+AWS_BRANCH ?= "twitch"
 FLIGHT_TABLE_NAME ?= "UNDEFINED"
 STACK_NAME ?= "UNDEFINED"
 DEPLOYMENT_BUCKET_NAME ?= "UNDEFINED"
